@@ -1,5 +1,3 @@
-console.log("Hello World")
-
 const fortuneMessage = {
     time: ['Today', 'In the Near future', 'In the Coming Months', 'Next Year' ],
     fortune: ['A beautiful, smart, and loving person will be coming into your life.', 'A dubious friend may be an enemy in camouflage.', 'A faithful friend is a strong defense.',
