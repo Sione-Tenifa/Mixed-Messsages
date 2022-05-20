@@ -1,0 +1,10 @@
+Fortune teller
+
+Three different pieces of data
+1. Time of occurenece
+    - Today, Near future, Coming Months, Next Year. 
+2. Random Fortune
+3. Possibility of it coming true. 
+
+
+
